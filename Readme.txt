@@ -1,5 +1,6 @@
 This is a small way to scrap information from a webpage using AI. 
 This process will automate the webscracping process and will save you a lot of time.
+Save the whole website in a HTML file format.
 Change the class tags according to your website.
 
 Download the webpage you want to scrap from.
